@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 6000,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/1.jpg",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "price": 150,
+      "promotion": true,
+      "stars": 5,
+      "image": "images/2.jpg",
+      "description": "Contrary to popular belief, making it over 2000 years old."
+    },
+    {
+      "id": 3,
+      "name": "Clavier",
+      "price": 200,
+      "promotion": false,
+      "stars": 4,
+      "image": "images/3.jpg",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+    {
+      "id": 4,
+      "name": "Laptop gamer",
+      "price": 18000,
+      "promotion": false,
+      "stars": 4.5,
+      "image": "images/4.jpg",
+      "description": "Contrary to popular belief, making it over 2000 years old."
+    }
+  ]
+}
